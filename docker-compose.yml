@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  book_store_back:
+    image: ${DOCKER_REGISTRY-}bookstoreback
+    container_name: book_store_back.api
+    build:
+      context: .
+      dockerfile: book_store_back/Dockerfile
+    ports:
+       - "5000:5000"
+       - "5001:5001"
+  database:
+    image: postgres:latest
+    container_name: database
+    environment:
+      - POSTGRES_DB=bookStore
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./.containers/bookStore-db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432

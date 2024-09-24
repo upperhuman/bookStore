@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\.last_build_id",
+      "PackagePath": "staticwebassets\\.last_build_id"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\AssetManifest.bin",
+      "PackagePath": "staticwebassets\\assets\\AssetManifest.bin"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\AssetManifest.bin.json",
+      "PackagePath": "staticwebassets\\assets\\AssetManifest.bin.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\AssetManifest.json",
+      "PackagePath": "staticwebassets\\assets\\AssetManifest.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\FontManifest.json",
+      "PackagePath": "staticwebassets\\assets\\FontManifest.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\NOTICES",
+      "PackagePath": "staticwebassets\\assets"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\assets\\translations\\en-US.json",
+      "PackagePath": "staticwebassets\\assets\\assets\\translations\\en-US.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\assets\\translations\\uk-UA.json",
+      "PackagePath": "staticwebassets\\assets\\assets\\translations\\uk-UA.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\assets\\shaders\\ink_sparkle.frag",
+      "PackagePath": "staticwebassets\\assets\\shaders\\ink_sparkle.frag"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\canvaskit.js",
+      "PackagePath": "staticwebassets\\canvaskit\\canvaskit.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\canvaskit.js.symbols",
+      "PackagePath": "staticwebassets\\canvaskit\\canvaskit.js.symbols"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\canvaskit.wasm",
+      "PackagePath": "staticwebassets\\canvaskit\\canvaskit.wasm"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\chromium\\canvaskit.js",
+      "PackagePath": "staticwebassets\\canvaskit\\chromium\\canvaskit.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\chromium\\canvaskit.js.symbols",
+      "PackagePath": "staticwebassets\\canvaskit\\chromium\\canvaskit.js.symbols"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\chromium\\canvaskit.wasm",
+      "PackagePath": "staticwebassets\\canvaskit\\chromium\\canvaskit.wasm"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\skwasm.js",
+      "PackagePath": "staticwebassets\\canvaskit\\skwasm.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\skwasm.js.symbols",
+      "PackagePath": "staticwebassets\\canvaskit\\skwasm.js.symbols"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\skwasm.wasm",
+      "PackagePath": "staticwebassets\\canvaskit\\skwasm.wasm"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\canvaskit\\skwasm.worker.js",
+      "PackagePath": "staticwebassets\\canvaskit\\skwasm.worker.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\flutter.js",
+      "PackagePath": "staticwebassets\\flutter.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\flutter_service_worker.js",
+      "PackagePath": "staticwebassets\\flutter_service_worker.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\icons\\Icon-192.png",
+      "PackagePath": "staticwebassets\\icons\\Icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\icons\\Icon-512.png",
+      "PackagePath": "staticwebassets\\icons\\Icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\icons\\Icon-maskable-192.png",
+      "PackagePath": "staticwebassets\\icons\\Icon-maskable-192.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\icons\\Icon-maskable-512.png",
+      "PackagePath": "staticwebassets\\icons\\Icon-maskable-512.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\24296862-c4f6-492a-99ca-974a02b7c5bc_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\24296862-c4f6-492a-99ca-974a02b7c5bc_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\4f1832dd-db68-4fec-bd69-eb5cce9fd557_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\4f1832dd-db68-4fec-bd69-eb5cce9fd557_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\60673ea7-ad70-48eb-b5bd-dd54b3e64921_завантаження.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\60673ea7-ad70-48eb-b5bd-dd54b3e64921_завантаження.jpg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\64974081-6365-44cf-ba6f-87762cca4cf0_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\64974081-6365-44cf-ba6f-87762cca4cf0_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\697d2312-48f8-4710-9da7-deaa0f987ecc_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\697d2312-48f8-4710-9da7-deaa0f987ecc_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\b2d6b462-3d4f-4847-ac84-7c64aab665a2_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\b2d6b462-3d4f-4847-ac84-7c64aab665a2_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\b6449e2f-fe6d-46a1-9a9f-4dd432e2ed99_Harry Potter and the Philosopher's Stone.png",
+      "PackagePath": "staticwebassets\\images\\books\\b6449e2f-fe6d-46a1-9a9f-4dd432e2ed99_Harry Potter and the Philosopher's Stone.png"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\cce6b0c1-76db-41af-b0cb-919ea81e32cd_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\cce6b0c1-76db-41af-b0cb-919ea81e32cd_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\images\\books\\f0d3ac30-b94b-4a32-a386-5120928a11a1_preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\f0d3ac30-b94b-4a32-a386-5120928a11a1_preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\main.dart.js",
+      "PackagePath": "staticwebassets\\main.dart.js"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\flesh\\source\\repos\\book_store_back\\book_store_back\\wwwroot\\version.json",
+      "PackagePath": "staticwebassets\\version.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.book_store_back.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.book_store_back.props",
+      "PackagePath": "build\\book_store_back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.book_store_back.props",
+      "PackagePath": "buildMultiTargeting\\book_store_back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.book_store_back.props",
+      "PackagePath": "buildTransitive\\book_store_back.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
