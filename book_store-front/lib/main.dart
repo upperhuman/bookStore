@@ -13,7 +13,7 @@ String? credentials;
 
 List<BookOrderEntity> orderEntities = [];
 
-const String HOST = 'https://localhost:5001';
+const String HOST = 'https://book-store-p-df1352e4ce30.herokuapp.com';
 
 const localeEnUs = Locale('en', 'US');
 const localeUkUa = Locale('uk', 'UA');
