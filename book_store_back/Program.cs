@@ -47,9 +47,10 @@ if (app.Environment.IsDevelopment())
 //    db.Database.Migrate();
 //}
 <<<<<<< HEAD
-
+Console.WriteLine("This is my version of the code.");
 =======
->>>>>>> d00f90758fdec6625d3d54f5493e6346248d39b1
+Console.WriteLine("This is the other version of the code.");
+>>>>>>> origin/main
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
