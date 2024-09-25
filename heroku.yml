@@ -1,0 +1,9 @@
+setup:
+  addons:
+    - plan: heroku-postgresql
+      as: DATABASE
+build:
+  docker:
+    web: book_store_back/Dockerfile
+run:
+  web: dotnet book_store_back.dll
