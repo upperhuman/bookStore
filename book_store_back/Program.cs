@@ -46,11 +46,6 @@ if (app.Environment.IsDevelopment())
 //    var db = scope.ServiceProvider.GetRequiredService<BookStoreContext>();
 //    db.Database.Migrate();
 //}
-<<<<<<< HEAD
-Console.WriteLine("This is my version of the code.");
-=======
-Console.WriteLine("This is the other version of the code.");
->>>>>>> origin/main
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
