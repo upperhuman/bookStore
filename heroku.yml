@@ -4,6 +4,6 @@ setup:
       as: DATABASE
 build:
   docker:
-    web: book_store_back/Dockerfile
+    web: Dockerfile
 run:
   web: dotnet book_store_back.dll
