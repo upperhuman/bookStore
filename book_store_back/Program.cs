@@ -11,7 +11,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       policy  =>
                       {
-                          policy
+                          policy.WithOrigins("https://book-store-p-df1352e4ce30.herokuapp.com/")
                                                   .AllowAnyHeader()
                                                   .AllowAnyMethod()
                                                   .AllowAnyOrigin();
