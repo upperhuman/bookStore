@@ -6,7 +6,7 @@ services:
     container_name: book_store_back.api
     build:
       context: .
-      dockerfile: book_store_back/Dockerfile
+      dockerfile: Dockerfile
     ports:
        - "5000:5000"
        - "5001:5001"
