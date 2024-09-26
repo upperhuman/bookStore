@@ -107,7 +107,7 @@ class _BookDetailsPageState extends State<BookDetailsPage> {
 
             // Дата публікації
             Text(
-              'Published: ${DateTime.parse(widget.book.publishDate)}',
+              'Published: ${DateTime.parse(widget.book.publishDate).toLocal().toString()}',
               style: const TextStyle(fontSize: 16, color: Colors.grey),
             ),
 
