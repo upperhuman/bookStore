@@ -53,12 +53,10 @@ app.UseCors(MyAllowSpecificOrigins);
 
 app.UseAuthorization();
 
-app.MapControllers();
-
 app.UseEndpoints(endpoints =>
 {
-    endpoints.MapControllers();
     endpoints.MapFallbackToFile("index.html");
+    endpoints.MapControllers();
 });
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
